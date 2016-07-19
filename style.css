@@ -57,9 +57,11 @@ h1, img {
 .arrow-down {
   width: 0;
   height: 0;
+  float: right;
+  top: -140px;
+  position: relative;
   border-left: 60px solid transparent;
   border-right: 60px solid transparent;
   border-top: 60px solid blue;
-  margin-left: 1050px;
-  position: static;;
+  margin-left: 800px;
 }
