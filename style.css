@@ -67,3 +67,10 @@ h1 {
   border-top: 60px solid blue;
   margin-left: 0px;
 }
+
+.giphy {
+    display: block;
+    margin-left: 445px;
+    margin-right: auto;
+    margin-top: -2500px;
+}
