@@ -13,11 +13,9 @@ body {
 
 p {
   position: fixed;
-  float: right;
   width: 110px;
   height: 70px;
-  margin-left: 90px;
-  margin-left: 90px;
+  margin-left: 86px;
   margin-top: 60px;
   color: #F4646C;
   background-color: black;
@@ -30,10 +28,24 @@ h1 {
   width: 110px;
   height: 70px;
   margin-left: 90px;
-  margin-top: 47px;
+  margin-top: 52px;
   color: #F4646C;
   background-color: black;
   text-align: center;
+  font-size: 36px;
+}
+
+h4 {
+  background-color: yellow;
+  width: 110px;
+  height: 30px;
+  margin-left: 90px;
+  margin-top: 25px
+  background-color: black;
+  color: #F4646C;
+  margin-top: -25px;
+  font-family: helvetica;
+  font-size: 23px;
 }
 
 .arrow-right {
@@ -70,7 +82,9 @@ h1 {
 
 .giphy {
     display: block;
-    margin-left: 445px;
+    width: 1px;
+    height: auto;
+    margin-left: 90px;
     margin-right: auto;
-    margin-top: -2500px;
+    margin-top: 350px;
 }
